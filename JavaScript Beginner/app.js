@@ -97,7 +97,7 @@ console.log(sumGreaterThan100(50, 60));
 console.log(sumGreaterThan100(100, -50));
 
 
-// Question 7. Less than or Rqual to Zero?
+// Question 7. Less than or equal to Zero?
 // Write a function that accepts a number and return true if it is less than or
 // equal to zero, otherwise returns false.
 // Example -
